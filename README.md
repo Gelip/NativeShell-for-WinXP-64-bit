@@ -11,9 +11,9 @@ Windows Driver Kit Version 7.1.0
 
 ## Build
 
-Build command for WDK x86 Free Build Environment:
+Build command for WDK Windows Server 2003 x64 Free Build Environment:
 
-`build /g /w`
+`build /cZ`
 
 Build output is native.exe.
 
